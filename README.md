@@ -1,5 +1,7 @@
 # view_pr.nvim 👀
 
+![Demo](demo/demo.gif)
+
 NeoVim plugin to instantly open the GitHub Pull Request associated with the line of code you’re looking at.
 
 ---
