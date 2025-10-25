@@ -1,6 +1,6 @@
 # view_pr.nvim 👀
 
-Instantly open the GitHub Pull Request associated with the line of code you’re looking at.
+NeoVim plugin to instantly open the GitHub Pull Request associated with the line of code you’re looking at.
 
 ---
 
